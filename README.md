@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to draw
 - ❤️ I love making new cool projects and learn new things
 
-## My Work:
+## My Projects:
 
 1. <a href = "https://github.com/mchirag2002/Sign-Language-Conversation-System">Sign Language to Speech communication system</a>
 2. <a href = "https://github.com/mchirag2002/MakeMyTrip-Clone"> MakeMyTrip clone </a>
