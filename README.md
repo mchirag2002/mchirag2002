@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Hey There!
-##My name is Chirag Mathur and I am a 2<sup>nd</sup> year CSE student at JECRC Foundation, Jaipur.
+# Hey There!
+## My name is Chirag Mathur and I am a 2<sup>nd</sup> year CSE student at JECRC Foundation, Jaipur.
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate on new technologies
+- ⚡ Fun fact: I love to draw
+- ❤️ I love making new cool projects and learn new things
