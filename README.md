@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>HeyThere</h1>
-<h2>My name is Chirag Mathur and I am a 2<sup>nd</sup> year CSE student at JECRC Foundation, Jaipur.</h2>
+#Hey There!
+##My name is Chirag Mathur and I am a 2<sup>nd</sup> year CSE student at JECRC Foundation, Jaipur.
