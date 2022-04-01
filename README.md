@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mchirag2002/mchirag2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>HeyThere</h1>
+<h2>My name is Chirag Mathur and I am a 2<sup>nd</sup> year CSE student at JECRC Foundation, Jaipur.</h2>
