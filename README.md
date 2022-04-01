@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 1. <a href = "https://github.com/mchirag2002/Sign-Language-Conversation-System">Sign Language to Speech communication system</a>
 2. <a href = "https://github.com/mchirag2002/MakeMyTrip-Clone"> MakeMyTrip clone </a>
-3. <a href = "https://github.com/mchirag2002/Facial-Recognition-Security-System"> Facial Recognition based security system </a>
+3. <a href = "https://github.com/mchirag2002/Facial-Recognition-Based-Security-System"> Facial Recognition based security system </a>
 
 ### Connect with me:
 <a href = "https://www.hackerrank.com/mchirag2002">HackerRank</a> |
