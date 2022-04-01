@@ -20,11 +20,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to draw
 - ❤️ I love making new cool projects and learn new things
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## My Work:
 
-[twitter]: https://twitter.com/mchirag2002
-[linkedin]: https://www.linkedin.com/in/chirag-mathur/
-[instagram]: https://www.instagram.com/thechiragmathur
+1. <a href = "https://github.com/mchirag2002/Sign-Language-Conversation-System">Sign Language to Speech communication system</a>
+2. <a href = "https://github.com/mchirag2002/MakeMyTrip-Clone"> MakeMyTrip clone </a>
+3. <a href = "https://github.com/mchirag2002/Facial-Recognition-Security-System"> Facial Recognition based security system </a>
+
+### Connect with me:
+<a href = "https://www.hackerrank.com/mchirag2002">HackerRank</a> |
+<a href = "https://www.linkedin.com/in/chirag-mathur/">LinkedIn</a> |
+<a href = "https://www.twitter.com/mchirag2002">Twitter</a> |
+<a href = "https://www.instagram.com/thechiragmathur">Instagram</a>
+
+<img align="left" alt="mchirag2002's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mchirag2002&show-icons=true&hide_border=true&count_private=true&theme=cobalt" />
